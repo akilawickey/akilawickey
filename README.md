@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akilawickey
-- 👀 I’m interested in opensource projects
+- 👀 I’m interested in opensource projects and mvp mobile applications
 - 🌱 I’m currently learning cloud related tools
-- 💞️ I’m looking to collaborate on development
+- 💞️ I’m looking to collaborate on development on opensource projects
 - 📫 How to reach me ...
 
 <!---
